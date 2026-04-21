@@ -10,3 +10,5 @@ wheels/
 
 # Virtual environments
 .venv
+supabase
+node_modules
